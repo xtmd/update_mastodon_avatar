@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/xtmd/update_mastodon_avatar) ![GitHub Created At](https://img.shields.io/github/created-at/xtmd/update_mastodon_avatar)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey) ![GitHub Created At](https://img.shields.io/github/created-at/xtmd/update_mastodon_avatar)
 
 # update_mastodon_avatar
 更新Mastodon用户头像的脚本
