@@ -18,7 +18,7 @@ python one_key_update_all_instance_avatar.py
 
 ## License
 
-All content and code examples in this blog are licensed under
-CC BY-NC-SA 4.0.
+This project is licensed under the MIT License.
 
-Commercial use is strictly prohibited without permission.
+Attribution is required. Commercial use is allowed,
+but please respect the original author and context.
