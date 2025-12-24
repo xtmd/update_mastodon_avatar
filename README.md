@@ -15,3 +15,10 @@ python update_any_instance_avatar.py
 python one_key_update_all_instance_avatar.py
 ```
 脚本自动打浏览器获取授权，获取完成后，将浏览器中的授权码粘贴到命令行中。授权失效自动重新获取。
+
+## License
+
+All content and code examples in this blog are licensed under
+CC BY-NC-SA 4.0.
+
+Commercial use is strictly prohibited without permission.
