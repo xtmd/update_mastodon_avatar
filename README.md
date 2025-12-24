@@ -18,7 +18,10 @@ python one_key_update_all_instance_avatar.py
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
-Attribution is required. Commercial use is allowed,
-but please respect the original author and context.
+- Commercial use is permitted by the license.
+- Attribution is required.
+- Please respect the original author and context when redistributing.
+
+See the [LICENSE](LICENSE) file for details.
